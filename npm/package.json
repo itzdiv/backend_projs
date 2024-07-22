@@ -1,0 +1,16 @@
+{
+  "name": "project",
+  "version": "1.1.2",
+  "description": "firstfile",
+  "main": "index2.js",
+  "type": "module",
+  "dependencies": {
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
+  },
+  "scripts": {
+    "test": "console.log(\"works\");"
+  },
+  "author": "Me",
+  "license": "ISC"
+}
